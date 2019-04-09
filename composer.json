@@ -4,6 +4,7 @@
     "license": "MIT",
     "keywords": ["yii2", "extension", "amocrm", "crm", "api"],
     "type": "yii2-extension",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Evgenii Kulinichev",

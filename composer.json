@@ -1,0 +1,22 @@
+{
+    "name": "awp-studio/remakeamocrm-yii2",
+    "description": "RemakeAmoCRM yii-2",
+    "license": "MIT",
+    "keywords": ["yii2", "extension", "amocrm", "crm", "api"],
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Evgenii Kulinichev",
+            "email": "gekin010@ya.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\\remakeamocrm-yii2\\": "src"
+        }
+    }
+}
